@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @f0rrrest
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 How to reach me: you don't.
