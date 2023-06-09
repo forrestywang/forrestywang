@@ -8,6 +8,5 @@
 
 - Machine Learning Projects READMEs (2 / 3)
 - G11 and G12 unfinished files (0 / 4)
-- G12 GUI Applications (Pong, Foot_Test)
 - Flappy Bird
 - Profile README
