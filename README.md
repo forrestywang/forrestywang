@@ -6,7 +6,7 @@
 
 # TO-DO LIST
 
-- Machine Learning Projects READMEs
+- Machine Learning Projects READMEs (2/3)
 - G11 and G12 unfinished files
 - G12 GUI Applications
 - Flappy Bird
