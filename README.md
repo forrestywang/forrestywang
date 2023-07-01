@@ -22,6 +22,5 @@
 
 ### 🚧 To-Do List:
 
-- [ ] Machine Learning Projects READMEs (2 / 3)
 - [ ] G11 and G12 unfinished files (0 / 4)
 - [ ] Flappy Bird
