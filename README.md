@@ -24,7 +24,8 @@
 
 - [x] GitHub profile README
 - [x] Machine Learning Projects READMEs (3 / 3)
-- [x] Personal website
+- [x] Resumé
+- [ ] Personal website
 - [ ] G11 and G12 unfinished files (0 / 4)
 - [ ] Pong.jar
 - [ ] Flappy Bird
