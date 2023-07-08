@@ -26,6 +26,7 @@
 - [x] Machine Learning Projects READMEs (3 / 3)
 - [x] Resumé
 - [ ] Personal website
-- [ ] G11 and G12 unfinished files (0 / 4)
 - [ ] Pong.jar
+- [ ] Google Foobar
+- [ ] G11 and G12 unfinished files (0 / 4)
 - [ ] Flappy Bird
