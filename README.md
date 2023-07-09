@@ -27,6 +27,6 @@
 - [x] Resume
 - [ ] Personal website
 - [ ] Pong.jar
-- [ ] Google Foobar
+- [ ] Google Foobar (1 / 5)
 - [ ] G11 and G12 unfinished files (0 / 4)
 - [ ] Flappy Bird
