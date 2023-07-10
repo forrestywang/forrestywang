@@ -25,7 +25,7 @@
 - [x] GitHub profile README
 - [x] Machine Learning Projects READMEs (3 / 3)
 - [x] Resume
-- [ ] Personal website
+- [x] Personal website
 - [ ] Pong.jar
 - [ ] Google Foobar (1 / 5)
 - [ ] G11 and G12 unfinished files (0 / 4)
