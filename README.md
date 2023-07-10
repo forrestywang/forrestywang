@@ -22,11 +22,6 @@
 
 ### 🚧 To-Do List:
 
-- [x] GitHub profile README
-- [x] Machine Learning Projects READMEs (3 / 3)
-- [x] Resume
-- [x] Personal website
-- [x] Java_GUI_Apps release
 - [ ] Google Foobar (1 / 5)
 - [ ] G11 and G12 unfinished files (0 / 4)
 - [ ] Flappy Bird
