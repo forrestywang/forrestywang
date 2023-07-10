@@ -26,7 +26,7 @@
 - [x] Machine Learning Projects READMEs (3 / 3)
 - [x] Resume
 - [x] Personal website
-- [ ] Pong.jar
+- [x] Java_GUI_Apps release
 - [ ] Google Foobar (1 / 5)
 - [ ] G11 and G12 unfinished files (0 / 4)
 - [ ] Flappy Bird
