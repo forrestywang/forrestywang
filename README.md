@@ -22,6 +22,5 @@
 
 ### 🚧 To-Do List:
 
-- [ ] Google Foobar (1 / 5)
 - [ ] G11 and G12 unfinished files (0 / 4)
 - [ ] Flappy Bird
