@@ -3,10 +3,10 @@
 ### About Me:
 
 - 📚 I'm a second-year Mathematics student at the University of Waterloo!
-- 🧠 Interests: **Math, finance, and a little bit of computer science**
-- 🎯 Goals: **Passing Exam FM during August**
-- 🔭 I'm currently working on: **My personal website**
-- 🍣 Hobbies: **Cooking, working out, and gaming**
+- 🧠 Interests: **Math, actuarial science, and a little bit of computer science**
+- 🎯 Goals: **Making new friends at UW**
+- 🔭 I'm currently working on: **Studying for my classes**
+- 🍣 Hobbies: **Cooking, working out, rock climbing, and gaming**
 
 #### Languages & Tools:
 
