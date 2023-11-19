@@ -3,8 +3,8 @@
 ### About Me:
 
 - 📚 I'm a second-year Mathematics student at the University of Waterloo!
-- 🧠 Interests: **Math, actuarial science, and a little bit of computer science**
-- 🎯 Goals: **Making new friends at UW**
+- 🧠 Interests: **Applied math, actuarial science, and a little bit of computer science**
+- 🎯 Goals: **Passing Exam P in January**
 - 🔭 I'm currently working on: **Studying for my classes**
 - 🍣 Hobbies: **Cooking, working out, rock climbing, and gaming**
 
