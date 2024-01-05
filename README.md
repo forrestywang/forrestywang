@@ -15,7 +15,6 @@
 
 #### Socials:
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/forrestywang)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/forrestywang/)
 
 ---
