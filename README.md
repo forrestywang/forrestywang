@@ -3,7 +3,7 @@
 ### About Me:
 
 - 📚 I'm a second-year Mathematics student at the University of Waterloo!
-- 🧠 Interests: **Applied math, actuarial science, and a little bit of computer science**
+- 🧠 Interests: **Actuarial science, applied math, and a little bit of computer science**
 - 🎯 Goals: **Passing Exam P in January**
 - 🔭 I'm currently working on: **Studying for my classes**
 - 🍣 Hobbies: **Cooking, working out, rock climbing, and gaming**
