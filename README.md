@@ -10,7 +10,7 @@
 
 #### Languages & Tools:
 
-[![My Languages & Tools](https://skillicons.dev/icons?i=idea,py,java)](https://skillicons.dev)
+[![My Languages & Tools](https://skillicons.dev/icons?i=idea,py,sklearn,java)](https://skillicons.dev)
 
 
 #### Socials:
