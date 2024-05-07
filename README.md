@@ -2,8 +2,8 @@
 
 ### About Me:
 
-- 📚 I'm a second-year Mathematics student at the University of Waterloo!
-- 🧠 Interests: **Actuarial science, applied math, and a little bit of computer science**
+- 📚 I'm a second-year Statistics & Actuarial Science student at the University of Waterloo!
+- 🧠 Interests: **Actuarial science, theoretical and computational statistics**
 - 🎯 Goals: **Securing an actuarial internship**
 - 🔭 I'm currently working on: **Studying for my classes**
 - 🍣 Hobbies: **Cooking, working out, rock climbing, and gaming**
