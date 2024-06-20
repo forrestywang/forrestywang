@@ -10,7 +10,7 @@
 
 #### Languages & Tools:
 
-[![My Languages & Tools](https://skillicons.dev/icons?i=idea,py,sklearn,java)](https://skillicons.dev)
+[![My Languages & Tools](https://skillicons.dev/icons?i=idea,py,r,sklearn,java)](https://skillicons.dev)
 
 
 #### Socials:
@@ -22,5 +22,6 @@
 ### 🚧 To-Do List:
 
 - [ ] Co-operators Workshop 2024 README
+- [ ] STAT 331 & 341
 - [ ] G11 and G12 unfinished files (0 / 4)
 - [ ] Flappy Bird
