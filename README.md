@@ -3,7 +3,7 @@
 ### About Me:
 
 - 📚 I'm a fourth-year Applied Mathematics student at the University of Waterloo!
-- 🧠 Interests: **Mathematical physics & applied mathematics**
+- 🧠 Interests: **Mathematical physics, applied mathematics**
 
 #### Languages & Tools:
 
