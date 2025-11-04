@@ -2,11 +2,8 @@
 
 ### About Me:
 
-- 📚 I'm a second-year Statistics & Actuarial Science student at the University of Waterloo!
-- 🧠 Interests: **Theoretical and computational statistics, applied mathematics**
-- 🎯 Goals: **Passing my third actuarial exam**
-- 🔭 I'm currently working on: **Interning for [iA](https://ia.ca/individuals)**
-- 🍣 Hobbies: **Cooking, working out, rock climbing, and gaming**
+- 📚 I'm a fourth-year Applied Mathematics student at the University of Waterloo!
+- 🧠 Interests: **Mathematical physics & applied mathematics**
 
 #### Languages & Tools:
 
@@ -16,11 +13,3 @@
 #### Socials:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/forrestywang/)
-
----
-
-### 🚧 To-Do List:
-
-- [ ] Co-operators Workshop 2024 README
-- [ ] G11 and G12 unfinished files (0 / 4)
-- [ ] Flappy Bird
